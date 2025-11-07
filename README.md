@@ -1,13 +1,16 @@
 ## Hi there 👋
 
 A Data enthusiast with over 9+ years of experience in Data Warehousing solutions, specializing in tools such as Informatica PowerCenter and Informatica Intelligent Cloud Services (IICS).
+
+🌱 I’m currently learning Python, AWS Data Engineering, Azure Data Engineering and Snowflake.
+
 <!--
 **Pranav7861/Pranav7861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Python, AWS Data Engineering, Azure Data Engineering and Snowflake.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
