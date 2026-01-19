@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A Data enthusiast with over 9+ years of experience in Data Warehousing solutions, specializing in tools such as Informatica PowerCenter and Informatica Intelligent Cloud Services (IICS).
+A Data enthusiast with over 9+ years of experience in Data Warehousing solutions, specializing in tools such as Snowflake, Informatica PowerCenter and Informatica Intelligent Cloud Services (IICS).
 
 🌱 I’m currently learning Python, AWS Data Engineering, Azure Data Engineering and Snowflake.
 
